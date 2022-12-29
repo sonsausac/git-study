@@ -1,2 +1,2 @@
-# git-_study
+# git_study
 test-git
